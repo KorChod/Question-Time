@@ -30,3 +30,8 @@ In another terminal window go to `frontend` directory and run command `npm run s
 You will be welcomed by a login window. Only singed in users can browse the site therefore please create an account before you start.
 
 This app is using sqlite3 database and doesn't require any additional configuration of the database except having `db.sqlite3` file in the root folder.  
+
+## Specification
+Django 3.0
+
+Vue.js 2.6
